@@ -18,6 +18,7 @@ mcfg_sw/generic/APAC/DCM/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/APAC/KDDI/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/APAC/Rakuten/pixel_Commercial/mcfg_sw.mbn
 mcfg_sw/generic/APAC/SBM/pixel_Commercial/mcfg_sw.mbn
+mcfg_sw/generic/AUNZ/telstra/pixel_Commercial/mcfg_sw.mbn
 "
 MCFG_MODPATH=${MODDIR}/system${MCFG_PATH}
 
